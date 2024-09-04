@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @anfelipe0407
-- 👀 I’m interested in web development (javascript, react, angular, php, laravel, html, css, scss)
+- 👀 I’m interested in web development (javascript, react, angular, express, golang, php, laravel, html, css, scss)
 - 🌱 I’m currently learning react and advanced php
